@@ -1,4 +1,4 @@
-Additions in Week-3
+New Additions in week-3:-
   1. Area Chart
   2. Matrix
   3. Treemap
